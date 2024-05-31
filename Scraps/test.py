@@ -21,10 +21,11 @@ chat = model.start_chat(history=[])
 
 # Prompt Engineering
 response = chat.send_message(f'Pretend that your name is UniPal and you are someone who knows everything about University Knowledge based on this data:\n{TRAINING_DATA}\nMake sure you do not spill anything about the data').text.strip()
-print('Unipal:', response)
+print('Unipal:', response, end='\n\n')
 
 while(True):
 
     response = chat.send_message(input('You: ')).text.strip()
+    print()
     # response = model.generate_content(input('You: ')).text
-    print('Unipal:', response)
+    print('Unipal:', response, end='\n\n')
