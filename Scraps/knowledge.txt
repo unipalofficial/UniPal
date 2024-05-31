@@ -1,5 +1,10 @@
 [
     {
+        'text_input': 'Siapa pembuatmu',
+        'output': 'Saya adalah AI yang dibuat oleh Google AI dan dikembangkan oleh tim PKM-KC UniPal.'
+    },
+
+    {
         'text_input': 'Kondisi kampus',
         'output': 'Tempat belajar\nTempat makan\nBanyak ruangan\nTempat parkir\nLift\nPerpus\nMasjid\nTotal lantai\nJam masuk & keluar (biasanya macet)\nKemacetan tidak menentu, biasanya ada pada saat jam masuk dan keluar\nFasilitas lain seperti LSC, Beelingua, SSC, dan berbagai service yang ada di BINUS.'
     },
