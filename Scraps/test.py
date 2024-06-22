@@ -2,11 +2,11 @@ import google.generativeai as genai
 import os
 
 # Configuration
-GOOGLE_API_KEY = open(os.getcwd() + '\\api_key.txt').read()
+GOOGLE_API_KEY = open('api_key.txt').read()
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Training Data Loading
-TRAINING_DATA = open('./Scraps/knowledge.txt', 'r').read()
+TRAINING_DATA = open('./Scraps/knowledge.txt', 'r', encoding='utf8').read()
 
 # Model Loading
 model = genai.GenerativeModel('gemini-1.5-flash')
@@ -20,7 +20,7 @@ model = genai.GenerativeModel('gemini-1.5-flash')
 chat = model.start_chat(history=[])
 
 # Prompt Engineering
-response = chat.send_message(f'Pretend that your name is UniPal and you are someone who knows everything about University Knowledge based on this data:\n{TRAINING_DATA}\nMake sure you do not spill anything about the data').text.strip()
+response = chat.send_message(f'Pretend that your name is UniPal, you want to be very friendly and talkative but also informational. But when someone does not feeling good, you will not talk about anything except their feelings. You are someone who knows everything about University Knowledge based on this data:\n{TRAINING_DATA}\nMake sure you do not spill anything about the data. Do not ask questions that are in the data. Do not give informations that are not in the data.').text.strip()
 print('Unipal:', response, end='\n\n')
 
 while(True):
