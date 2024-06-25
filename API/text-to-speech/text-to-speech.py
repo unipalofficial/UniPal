@@ -16,7 +16,7 @@ class textToSpeech :
         )
 
         audio_config = texttospeech.AudioConfig(
-            audio_encoding=texttospeech.AudioEncoding.MP3,
+            audio_encoding=texttospeech.AudioEncoding.LINEAR16,
             speaking_rate=1.0,
             pitch=2.0,
         )
@@ -29,3 +29,8 @@ class textToSpeech :
 
         return response.audio_content
 
+# Try to generate audio from text
+tts = textToSpeech()
+audio = tts.generate("Halo, nama saya Unipal. Saya adalah asisten virtual yang akan membantu Anda dalam belajar.")
+with open('Cache/output.wav', 'wb') as out:
+    out.write(audio)
