@@ -3,11 +3,11 @@ import os
 import json
 
 # Configuration
-GOOGLE_API_KEY = open('../KEY/api_key.txt').read()
+GOOGLE_API_KEY = open(os.getcwd() + '/KEY/api_key.txt').read()
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Training Data Loading
-data_load = open('knowledge.json', 'r', encoding='utf8')
+data_load = open(os.getcwd() + '/Scraps/knowledge.json', 'r', encoding='utf8')
 TRAINING_DATA = json.load(data_load)
 
 # Model Loading
@@ -17,7 +17,7 @@ model = genai.GenerativeModel('gemini-1.5-flash')
 chat = model.start_chat(history=[])
 
 # Prompt Engineering Initializer
-initialize = list(json.load(open('initializer.json', 'r')).values())[0]
+initialize = list(json.load(open(os.getcwd() + '/Scraps/initializer.json', 'r')).values())[0]
 
 # Prompt Engineering
 response = chat.send_message(initialize.format(TRAINING_DATA)).text.strip()
