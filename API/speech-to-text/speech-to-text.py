@@ -20,6 +20,7 @@ class speechToText :
         config = speech.RecognitionConfig(
             encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
             language_code='id-ID',
+            model='latest_short'
             enable_automatic_punctuation=True,
             enable_word_time_offsets=True,
             enable_word_confidence=True,
