@@ -3,7 +3,7 @@ import os
 import json
 
 # Configuration
-GOOGLE_API_KEY = open(os.getcwd() + '/KEY/api_key.txt').read()
+GOOGLE_API_KEY = open(os.getcwd() + '/Key/gemini/API-Key.txt').read()
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Training Data Loading

@@ -20,7 +20,7 @@ class speechToText :
         config = speech.RecognitionConfig(
             encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
             language_code='id-ID',
-            model='latest_short'
+            model='latest_short',
             enable_automatic_punctuation=True,
             enable_word_time_offsets=True,
             enable_word_confidence=True,
@@ -28,3 +28,21 @@ class speechToText :
 
         response = self.client.recognize(config=config, audio=audio)
         return response
+
+# Try to recognize speech from audio
+stt = speechToText()
+response = stt.recognize('Cache/output.wav')
+
+for result in response.results:
+    alternative = result.alternatives
+    print('Transcript: {}'.format(alternative[0].transcript))
+    print('Confidence: {}'.format(alternative[0].confidence))
+    print('Word Time Offsets:')
+    for word_info in alternative[0].words:
+        word = word_info.word
+        start_time = word_info.start_time
+        end_time = word_info.end_time
+        print('\t{}s - {}s: {}'.format(start_time.total_seconds(), end_time.total_seconds(), word))
+        
+# Output:
+# Transcript: Halo nama saya Unipal Saya adalah asisten virtual yang akan membantu Anda dalam belajar
