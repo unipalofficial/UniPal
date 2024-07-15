@@ -12,6 +12,8 @@ genai = GenAI()
 stt = SpeechToText()
 tts = TextToSpeech()
 
+genai.initialize()
+
 @app.get('/')
 
 def root():
