@@ -32,7 +32,7 @@ class SpeechToText :
 # Try to recognize speech from audio
 def test() :
     stt = SpeechToText()
-    response = stt.recognize('Cache/record_out.wav')
+    response = stt.recognize('Cache/output.wav')
 
     for result in response.results:
         alternative = result.alternatives
@@ -47,3 +47,5 @@ def test() :
             
     # Output:
     # Transcript: Halo nama saya Unipal Saya adalah asisten virtual yang akan membantu Anda dalam belajar
+
+test()
