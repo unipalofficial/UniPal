@@ -8,7 +8,7 @@ class GenAI():
         return self._chat.send_message(msg).text.strip() # Return message
 
     def initialize(self):
-        genai.configure(api_key=open(os.getcwd() + '/KEY/api_key.txt').read())
+        genai.configure(api_key=open(os.getcwd() + '/Key/gemini/API_key.txt').read())
         train_data = json.load(open(os.getcwd() + '/Scraps/knowledge.json', 'r', encoding='utf8'))
         self._model = genai.GenerativeModel('gemini-1.5-flash')
         self._chat = self._model.start_chat(history=[])

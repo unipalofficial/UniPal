@@ -1,7 +1,7 @@
 import os
 from google.cloud import texttospeech
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getcwd() + '/KEY/text-to-speech/unipal-text-to-speech-key.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'Key/text-to-speech/unipal-text-to-speech-key.json'
 
 class TextToSpeech :
     def __init__(self) :
@@ -30,7 +30,7 @@ class TextToSpeech :
         return response.audio_content
 
 # Try to generate audio from text
-tts = TextToSpeech()
-audio = tts.generate("Halo, nama saya Unipal. Saya adalah asisten virtual yang akan membantu Anda dalam belajar.")
-with open('Cache/output.wav', 'wb') as out:
-    out.write(audio)
+# tts = textToSpeech()
+# audio = tts.generate("Halo, nama saya Unipal. Saya adalah asisten virtual yang akan membantu Anda dalam belajar.")
+# with open('Cache/output.wav', 'wb') as out:
+#     out.write(audio)
