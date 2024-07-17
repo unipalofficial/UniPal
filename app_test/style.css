@@ -1,0 +1,184 @@
+* {
+    font-family: 'Inter', 'JetBrains Mono';
+    margin: 0;
+}
+
+body {
+
+    background-color: #181818;
+    margin: 0px;
+    min-width: 100%;
+    user-select: none;
+    overflow: auto;
+
+}
+
+/* Global Styles */
+.brand-name {
+    font-family: JetBrains Mono;
+    font-size: 10rem;
+    font-weight: 700;
+    background: linear-gradient(#402DD8, #FFE867);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Navbar */
+
+header {
+    position: sticky;
+    height: 12vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    height: 9vh;
+    width: auto;
+    margin: 2vh;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2vh;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    margin: 2vh;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+.sign-in-btn {
+    background-color: #6297F4;
+    color: black;
+    font-weight: bold;
+    padding: 2vh;
+    border-radius: 1rem;
+    margin: 2vh;
+    border: none;
+}
+
+.sign-in-btn:hover {
+    color: white;
+}
+
+/* Hero Section */
+.hero {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 88vh;
+    width: 100%;
+}
+
+.hero_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    width: 40%;
+    margin:  2vh 5vh;
+}
+
+/* Hero Item */
+
+.hero_item h1 {
+    margin: 0;
+}
+
+.hero_item h2 {
+    color: white;
+    font-size: 3rem;
+    margin: 0;
+}
+
+.hero_item p {
+    color: white;
+    font-size: 1.5rem;
+    margin: 2vh 0;
+}
+
+.hero_button-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hero_button-container span {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin: 0 2vh;
+}
+
+#hero_sign-up-btn {
+    border-radius: 2rem;
+    font-size: 1.1rem;
+    padding: 2vh 4vh;
+}
+
+/* Hero Slider */
+.hero_slider {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    color: white;
+    margin:  5vh;
+    padding: 4vh;
+    border: 5px solid rgba(255, 255, 255, 0.588);
+    border-radius: 2rem;
+}
+
+.hero_slider-container h2 {
+    font-family: 'JetBrains Mono';
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 2vh 0;
+    text-align: right;
+}
+
+.hero_slider-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 3vh 0;
+}
+
+.hero_slider-item p span {
+    font-size: 5rem;
+}
+
+.hero_slider-item p {
+    color: white;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+
+
