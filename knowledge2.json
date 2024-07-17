@@ -1,0 +1,568 @@
+[
+    {
+        "text_input": "Dimana saja tempat belajar di BINUS University?",
+        "output": "Tempat belajar di BINUS University meliputi perpustakaan/LKC, Beehub, dan Lobby tengah."
+    },
+    {
+        "text_input": "Apa itu LKC (Library and Knowledge Center)?",
+        "output": "LKC (Library and Knowledge Center) adalah perpustakaan yang terletak di lantai 1, di depan main lobby. LKC menyediakan fasilitas seperti ruang diskusi, sofa dan meja untuk diskusi kelompok, area duduk lesehan, wifi, dan koleksi buku yang sangat lengkap dari berbagai bidang studi."
+    },
+    {
+        "text_input": "Dimana lokasi LKC?",
+        "output": "LKC terletak di lantai 1, di depan main lobby."
+    },
+    {
+        "text_input": "Apa saja fasilitas yang tersedia di LKC?",
+        "output": "LKC menyediakan fasilitas seperti ruang diskusi, sofa dan meja untuk diskusi kelompok, area duduk lesehan, wifi, dan koleksi buku yang sangat lengkap dari berbagai bidang studi."
+    },
+    {
+        "text_input": "Apa itu Beehub?",
+        "output": "Beehub adalah tempat belajar yang terletak di bawah gedung parkir kampus Anggrek. Beehub menyediakan fasilitas seperti ruang diskusi, area meja kerja, area duduk lesehan, gym, dan wifi."
+    },
+    {
+        "text_input": "Dimana lokasi Beehub?",
+        "output": "Beehub terletak di bawah gedung parkir kampus Anggrek."
+    },
+    {
+        "text_input": "Apa saja fasilitas yang tersedia di Beehub?",
+        "output": "Beehub menyediakan fasilitas seperti ruang diskusi, area meja kerja, area duduk lesehan, gym, dan wifi."
+    },
+    {
+        "text_input": "Apa itu Lobby tengah?",
+        "output": "Lobby tengah adalah tempat untuk berkumpul dan belajar yang terletak di lantai 1. Biasanya area ini juga digunakan untuk berbagai acara Binus."
+    },
+    {
+        "text_input": "Dimana lokasi Lobby tengah?",
+        "output": "Lobby tengah terletak di lantai 1."
+    },
+    {
+        "text_input": "Apa saja fasilitas yang tersedia di Lobby tengah?",
+        "output": "Lobby tengah menyediakan fasilitas seperti meja, kursi, wifi, dan dekat dengan berbagai pilihan makanan dan minuman."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan dan minuman yang ada di Lobby tengah?",
+        "output": "Pada Lobby tengah terdapat A&W, Starbucks, Hokben, The Harvest Express, dan Rejuve."
+    },
+
+
+    {
+        "text_input": "Apa saja tempat makan yang ada di dalam Kampus BINUS?",
+        "output": "Tempat makan di dalam Kampus BINUS meliputi Kantin Payung, Kantin Basement, dan berbagai pilihan resto/bakery/coffee shop di lobby tengah lantai 1."
+    },
+    {
+        "text_input": "Apa itu Kantin Payung?",
+        "output": "Kantin Payung adalah area makan outdoor yang terletak di lantai basement, di depan gedung parkir. Di sini terdapat berbagai pilihan makanan dan minuman seperti Xiao Kee yang menjual berbagai menu nasi ayam hainam, Wong Potato yang menjual kentang goreng, My Crepes yang menjual berbagai pilihan crepes, Omon’s Corner yang menjual jus buah, Hakuya yang menjual beef rice bowl, dan Tea Well yang menjual berbagai minuman seperti teh, kopi, dan berbagai minuman lainnya."
+    },
+    {
+        "text_input": "Dimana lokasi Kantin Payung?",
+        "output": "Kantin Payung terletak di lantai basement, di depan gedung parkir."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan dan minuman di Kantin Payung?",
+        "output": "Pilihan makanan dan minuman di Kantin Payung meliputi Xiao Kee (nasi ayam hainam), Wong Potato (kentang goreng), My Crepes (crepes), Omon’s Corner (jus buah), Hakuya (beef rice bowl), dan Tea Well (teh, kopi, dan berbagai minuman lainnya)."
+    },
+    {
+        "text_input": "Apa itu Xiao Kee?",
+        "output": "Xiao Kee adalah kios di Kantin Payung yang menjual berbagai menu nasi ayam hainam."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Xiao Kee?",
+        "output": "Pilihan makanan di Xiao Kee meliputi berbagai menu nasi ayam hainam."
+    },
+    {
+        "text_input": "Apa itu Wong Potato?",
+        "output": "Wong Potato adalah kios di Kantin Payung yang menjual kentang goreng."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Wong Potato?",
+        "output": "Pilihan makanan di Wong Potato meliputi berbagai jenis kentang goreng."
+    },
+    {
+        "text_input": "Apa itu My Crepes?",
+        "output": "My Crepes adalah kios di Kantin Payung yang menjual berbagai pilihan crepes."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di My Crepes?",
+        "output": "Pilihan makanan di My Crepes meliputi berbagai pilihan crepes."
+    },
+    {
+        "text_input": "Apa itu Omon’s Corner?",
+        "output": "Omon’s Corner adalah kios di Kantin Payung yang menjual jus buah."
+    },
+    {
+        "text_input": "Apa saja pilihan minuman di Omon’s Corner?",
+        "output": "Pilihan minuman di Omon’s Corner meliputi berbagai jus buah."
+    },
+    {
+        "text_input": "Apa itu Hakuya?",
+        "output": "Hakuya adalah kios di Kantin Payung yang menjual beef rice bowl."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Hakuya?",
+        "output": "Pilihan makanan di Hakuya meliputi beef rice bowl."
+    }, 
+    {
+        "text_input": "Apa itu Tea Well?",
+        "output": "Tea Well adalah kios di Kantin Payung yang menjual berbagai minuman seperti teh, kopi, dan berbagai minuman lainnya."
+    },
+    {
+        "text_input": "Apa saja pilihan minuman di Tea Well?",
+        "output": "Pilihan minuman di Tea Well meliputi berbagai jenis teh, kopi, dan minuman lainnya."
+    },
+    {
+        "text_input": "Apa itu Kantin Basement?",
+        "output": "Kantin Basement adalah area makan yang terletak di lantai basement, di dalam parkiran. Di sini terdapat berbagai pilihan makanan seperti Rasela Catering yang menjual berbagai menu olahan telur, sayuran, ayam, dan daging, Good Waffle yang menjual berbagai varian waffle, Bakmie Effata yang menyediakan masakan khas Bangka, Cerita Cinta yang menyediakan berbagai varian ayam goreng tepung, Rasa Sayange yang menyediakan masakan khas Manado, Oriental Chicken Rice yang menjual nasi ayam hainam, dan Beehive yang menjual minuman kemasan dan snack kemasan."
+    },
+    {
+        "text_input": "Dimana lokasi Kantin Basement?",
+        "output": "Kantin Basement terletak di lantai basement, di dalam parkiran."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Kantin Basement?",
+        "output": "Pilihan makanan di Kantin Basement meliputi Rasela Catering (olahan telur, sayuran, ayam, dan daging), Good Waffle (waffle), Bakmie Effata (masakan khas Bangka), Cerita Cinta (ayam goreng tepung), Rasa Sayange (masakan khas Manado), Oriental Chicken Rice (nasi ayam hainam), dan Beehive (minuman kemasan dan snack kemasan)."
+    },
+    {
+        "text_input": "Apa itu Rasela Catering?",
+        "output": "Rasela Catering adalah kios di Kantin Basement yang menjual berbagai menu olahan telur, sayuran, ayam, dan daging."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Rasela Catering?",
+        "output": "Pilihan makanan di Rasela Catering meliputi berbagai menu olahan telur, sayuran, ayam, dan daging."
+    },    
+    {
+        "text_input": "Apa itu Good Waffle?",
+        "output": "Good Waffle adalah kios di Kantin Basement yang menjual berbagai varian waffle."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Good Waffle?",
+        "output": "Pilihan makanan di Good Waffle meliputi berbagai varian waffle."
+    },
+    {
+        "text_input": "Apa itu Bakmie Effata?",
+        "output": "Bakmie Effata adalah kios di Kantin Basement yang menyediakan masakan khas Bangka seperti mie, bihun, kwetiau, dan tahu kok."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Bakmie Effata?",
+        "output": "Pilihan makanan di Bakmie Effata meliputi masakan khas Bangka seperti mie, bihun, kwetiau, dan tahu kok."
+    },
+    {
+        "text_input": "Apa itu Cerita Cinta?",
+        "output": "Cerita Cinta adalah kios di Kantin Basement yang menyediakan berbagai varian ayam goreng tepung."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Cerita Cinta?",
+        "output": "Pilihan makanan di Cerita Cinta meliputi berbagai varian ayam goreng tepung."
+    },
+    {
+        "text_input": "Apa itu Rasa Sayange?",
+        "output": "Rasa Sayange adalah kios di Kantin Basement yang menyediakan masakan khas Manado meliputi berbagai olahan seafood, sayuran, ayam, dan telur."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Rasa Sayange?",
+        "output": "Pilihan makanan di Rasa Sayange meliputi berbagai olahan seafood, sayuran, ayam, dan telur khas Manado."
+    },
+    {
+        "text_input": "Apa itu Oriental Chicken Rice?",
+        "output": "Oriental Chicken Rice adalah kios di Kantin Basement yang menjual berbagai pilihan nasi ayam hainam."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Oriental Chicken Rice?",
+        "output": "Pilihan makanan di Oriental Chicken Rice meliputi berbagai jenis nasi ayam hainam."
+    },
+    {
+        "text_input": "Apa itu Beehive?",
+        "output": "Beehive adalah kios di Kantin Basement yang menjual minuman kemasan dan snack kemasan."
+    },
+    {
+        "text_input": "Apa saja pilihan di Beehive?",
+        "output": "Pilihan di Beehive meliputi minuman kemasan dan snack kemasan."
+    },
+    {
+        "text_input": "Apa saja pilihan resto/bakery/coffee shop di lobby tengah lantai 1?",
+        "output": "Pilihan resto/bakery/coffee shop di lobby tengah lantai 1 meliputi Starbucks, A&W, The Harvest Express, dan Hokben (Hoka-Hoka Bento)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan dan minuman di Starbucks?",
+        "output": "Starbucks menyediakan kopi, non-kopi, pastry, cookies, roti, dan kue."
+    },
+    {
+        "text_input": "Dimana lokasi Starbucks?",
+        "output": "Starbucks terletak di Lobby tengah lantai 1."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan dan minuman di A&W?",
+        "output": "A&W menyediakan ayam goreng, burger, nugget, kentang goreng, root beer, serta berbagai dessert seperti es krim dan waffle."
+    },
+    {
+        "text_input": "Dimana lokasi A&W?",
+        "output": "A&W terletak di Lobby tengah lantai 1."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan dan minuman di The Harvest Express?",
+        "output": "The Harvest Express menyediakan kopi, non-kopi, cookies, macaron, roti, dan kue."
+    },
+    {
+        "text_input": "Dimana lokasi The Harvest Express?",
+        "output": "The Harvest Express terletak di Lobby tengah lantai 1."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan dan minuman di Hokben (Hoka-Hoka Bento)?",
+        "output": "Hokben (Hoka-Hoka Bento) menyediakan berbagai makanan Jepang seperti ramen, miso, berbagai olahan ayam dan daging sapi, aneka gorengan khas Jepang, salad, dan ocha."
+    },
+    {
+        "text_input": "Dimana lokasi Hokben (Hoka-Hoka Bento)?",
+        "output": "Hokben (Hoka-Hoka Bento) terletak di Lobby tengah lantai 1."
+    },
+    {
+        "text_input": "Di mana lokasi Kwetiau 79?",
+        "output": "Lokasi Kwetiau 79 di jalan Anggrek Cakra no 17 (dari parkiran basement belok kanan)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Kwetiau 79?",
+        "output": "Pilihan makanan di Kwetiau 79 meliputi berbagai masakan mulai dari bakmie, kwetiau, bihun, nasi goreng, aneka olahan sayur, ayam, sapi, dan seafood."
+    },
+    {
+        "text_input": "Di mana lokasi Come & Eat?",
+        "output": "Lokasi Come & Eat di jalan Anggrek Cakra no 23B (terdapat di depan Beehub)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Come & Eat?",
+        "output": "Pilihan makanan di Come & Eat meliputi berbagai masakan mulai dari bakmie, kwetiau, nasi goreng, aneka olahan sayur, ayam, dan seafood."
+    },
+    {
+        "text_input": "Di mana lokasi Sola Gratia Binus?",
+        "output": "Lokasi Sola Gratia Binus di jalan Anggrek Cakra no 23 (dari parkiran basement belok kanan)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Sola Gratia Binus?",
+        "output": "Pilihan makanan di Sola Gratia Binus meliputi berbagai masakan mulai dari bakmie, kwetiau, bihun, dan nasi goreng."
+    },
+    {
+        "text_input": "Di mana lokasi Steak 76?",
+        "output": "Lokasi Steak 76 di jalan K.H. Syahdan no 16A."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Steak 76?",
+        "output": "Pilihan makanan di Steak 76 meliputi berbagai steak ayam dan sapi."
+    },
+    {
+        "text_input": "Di mana lokasi Geisha The Sushi House?",
+        "output": "Lokasi Geisha The Sushi House di jalan Anggrek Cakra no 7 (dari parkiran basement belok kiri)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Geisha The Sushi House?",
+        "output": "Pilihan makanan di Geisha The Sushi House meliputi makanan khas Jepang seperti sushi, temaki, ramen, inari, salad, sashimi, udon, soba, spaghetti/fettuccine, donburi, steak, curry, omurice, dll."
+    },
+    {
+        "text_input": "Di mana lokasi Rocky?",
+        "output": "Lokasi Rocky di jalan Rawa Belong no 82B (sebelah kanan Kampus Binus Anggrek)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Rocky?",
+        "output": "Pilihan makanan di Rocky meliputi ayam goreng krispi."
+    },
+    {
+        "text_input": "Di mana lokasi Kodaigiri?",
+        "output": "Lokasi Kodaigiri di jalan Mandala no 5E (sebelah kiri Kampus Binus Anggrek)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Kodaigiri?",
+        "output": "Pilihan makanan di Kodaigiri meliputi onigiri, sando sando, dan berbagai minuman."
+    },
+    {
+        "text_input": "Di mana lokasi Mixue?",
+        "output": "Lokasi Mixue di jalan Rawa Belong no 80B (sebelah kanan Kampus Binus Anggrek) dan Jalan K.H. Syahdan no 16B."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Mixue?",
+        "output": "Pilihan makanan di Mixue meliputi es krim dan berbagai minuman."
+    },
+    {
+        "text_input": "Di mana lokasi Kantin Lorong Jaya?",
+        "output": "Lokasi Kantin Lorong Jaya di jalan Anggrek Cakra no 10 (dari parkiran basement belok kiri)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Kantin Lorong Jaya?",
+        "output": "Pilihan makanan di Kantin Lorong Jaya meliputi berbagai jenis makanan seperti soto, nasi goreng, mie goreng, nasi uduk, ayam goreng, dll."
+    },
+    {
+        "text_input": "Di mana lokasi Ayam Blenger PSP?",
+        "output": "Lokasi Ayam Blenger PSP di Jalan K.H. Syahdan no 18A (sebelah kanan Kampus Binus Anggrek)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Ayam Blenger PSP?",
+        "output": "Pilihan makanan di Ayam Blenger PSP meliputi ayam geprek."
+    },
+    {
+        "text_input": "Di mana lokasi Warteg Kemuning?",
+        "output": "Lokasi Warteg Kemuning di jalan Rawa Belong (sebelah kanan Kampus Binus Anggrek)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Warteg Kemuning?",
+        "output": "Pilihan makanan di Warteg Kemuning meliputi berbagai masakan seperti olahan telur, sayuran, ayam, dan ikan."
+    },
+    {
+        "text_input": "Di mana lokasi Warteg Marimas Bahari?",
+        "output": "Lokasi Warteg Marimas Bahari di jalan Anggrek Cakra (dari parkiran basement belok kiri)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Warteg Marimas Bahari?",
+        "output": "Pilihan makanan di Warteg Marimas Bahari meliputi soto ayam dan berbagai masakan seperti olahan telur, sayuran, ayam, udang, dan kerang."
+    },
+    {
+        "text_input": "Di mana lokasi Ayam Keprabon Express?",
+        "output": "Lokasi Ayam Keprabon Express di jalan Anggrek Cakra no 1A (dari parkiran basement belok kiri)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Ayam Keprabon Express?",
+        "output": "Pilihan makanan di Ayam Keprabon Express meliputi ayam geprek."
+    },
+    {
+        "text_input": "Di mana lokasi Nasi Goreng Pak Indri?",
+        "output": "Lokasi Nasi Goreng Pak Indri di jalan Anggrek Cakra no 7 (dari parkiran basement belok kiri)."
+    },
+    {
+        "text_input": "Apa saja pilihan makanan di Nasi Goreng Pak Indri?",
+        "output": "Pilihan makanan di Nasi Goreng Pak Indri meliputi aneka nasi goreng dan olahan ayam serta sayuran."
+    },
+
+
+    
+    {
+        "text_input": "Di mana lokasi tempat parkir mobil di kampus?",
+        "output": "Tempat parkir mobil ada di bagian depan kampus, basement, dan juga tersedia gedung parkir di bagian belakang kampus."
+    },
+    {
+        "text_input": "Di mana lokasi tempat parkir motor di kampus?",
+        "output": "Tempat parkir motor terdapat di basement dan juga bagian bawah gedung parkir."
+    },
+    {
+        "text_input": "Berapa jumlah lift di kampus dan di mana lokasinya?",
+        "output": "Tersedia 4 lift yang terdapat di tengah-tengah kampus. Pada basement, lokasi lift berada di depan pintu masuk basement. Pada lantai 1, lift berada di sebelah LKC (Library and Knowledge Center)."
+    },
+    {
+        "text_input": "Di mana lokasi masjid di kampus?",
+        "output": "Masjid terdapat di lantai basement, di depan kantin payung outdoor."
+    },
+    {
+        "text_input": "Berapa total lantai di kampus?",
+        "output": "Terdapat 8 lantai dan 1 basement."
+    },
+    {
+        "text_input": "Apa saja jam masuk dan keluar perkuliahan?",
+        "output": "Terdapat 6 shift dalam 1 hari perkuliahan: 7.20-9.00, 9.20-11.00, 11.20-13.00, 13.20-15.00, 15.20-17.00, 17.20-19.00."
+    },
+    {
+        "text_input": "Kapan waktu kemacetan biasanya terjadi di kampus?",
+        "output": "Untuk jam kemacetan tidak dapat dipastikan, tapi biasanya macet saat jam masuk dan jam keluar (saat pergantian shift)."
+    },
+
+
+
+    {
+        "text_input": "Apa itu LSC (Lecturer Services Center)?",
+        "output": "LSC (Lecturer Services Center) adalah layanan yang menyediakan pengurusan segala hal terkait mata kuliah, absensi, pengumpulan tugas/ujian, dan interaksi dengan dosen seperti bimbingan atau kegiatan terkait belajar-mengajar."
+    },
+    {
+        "text_input": "Dimana lokasi LSC?",
+        "output": "LSC terletak di Ruang Lecturer Services Center, Kampus Anggrek Lt. 2."
+    },
+    {
+        "text_input": "Bagaimana cara menghubungi LSC?",
+        "output": "Kontak LSC dapat dilihat pada link [https://linktr.ee/contactlsc]."
+    },
+    {
+        "text_input": "Contoh kasus mahasiswa perlu ke LSC?",
+        "output": "Jika mahasiswa mengalami kendala terkait status kehadiran seperti tidak terdata setelah hadir kelas dengan wifi attendance atau masalah jaringan saat wifi attendance, disarankan untuk segera berkonsultasi ke Lecture Service Center (LSC) atau unit sejenis di kampus. Mahasiswa harus menyampaikan nama, NIM, program studi, kronologis kendala absensi, serta menunjukkan bukti kehadiran untuk mendapatkan bantuan segera."
+    },
+
+
+    {
+        "text_input": "Apa itu SSC (Student Service Center)?",
+        "output": "SSC (Student Service Center) adalah media informasi untuk mahasiswa yang menyediakan layanan terkait perkuliahan, ujian, keuangan, registrasi, wisuda, administrasi seperti permintaan surat-surat, daftar nilai kumulatif, dan pengambilan berkas kelulusan."
+    },
+    {
+        "text_input": "Apa saja layanan yang diberikan oleh SSC?",
+        "output": "SSC menyediakan layanan informasi dan administrasi seperti permintaan surat-surat (seperti surat keterangan mahasiswa aktif, surat keterangan survey), daftar nilai kumulatif, pengambilan berkas kelulusan, dan lainnya."
+    },
+    {
+        "text_input": "Dimana lokasi SSC?",
+        "output": "SSC terletak di Ruang Student Services Center, Kampus Anggrek Lt. 1."
+    },
+    {
+        "text_input": "Kapan waktu operasional SSC?",
+        "output": "SSC buka Senin-Jumat dari pukul 08.00 hingga 20.00 WIB dan Sabtu dari pukul 09.00 hingga 17.00 WIB."
+    },
+    {
+        "text_input": "Bagaimana cara menghubungi SSC?",
+        "output": "Untuk menghubungi SSC, silakan login ke Binusmaya, lalu pilih menu FEEDBACK dan klik Send Feedback. Anda juga dapat menghubungi melalui telepon di (021) 5345830 ext: 1181/1182."
+    },
+    
+
+    {
+        "text_input": "Apa itu Beelingua?",
+        "output": "Beelingua adalah platform pembelajaran bahasa (Inggris, Mandarin, dan Jepang) yang dikembangkan oleh BINUS University untuk mengembangkan kemampuan membaca, mendengarkan, menulis, dan berbicara."
+    },
+    {
+        "text_input": "Apa saja yang ditawarkan oleh Beelingua?",
+        "output": "Beelingua menawarkan berbagai jenis aktivitas seperti multiple choice, drag and drop, dikte, fill-in-the-blanks, MOOCs, dan video catatan kuliah untuk pembelajaran yang lebih baik."
+    },
+    {
+        "text_input": "Apa itu kursus Beelingua untuk Binusian 2026?",
+        "output": "Kursus Beelingua adalah prasyarat sebelum enrichment bagi Binusian 2026. Mahasiswa harus menyelesaikan dan lulus kursus untuk mendapatkan sertifikat Beelingua."
+    },
+    {
+        "text_input": "Berapa unit yang ada dalam setiap kursus Beelingua?",
+        "output": "Setiap kursus Beelingua memiliki 8 unit yang melibatkan berbagai aktivitas."
+    },
+    {
+        "text_input": "Bagaimana cara mengakses Beelingua?",
+        "output": "Silakan login melalui: https://newbinusmaya.binus.ac.id/beelingua."
+    },
+    {
+        "text_input": "Apa yang harus dilakukan jika ada kendala saat menggunakan Beelingua?",
+        "output": "Jika ada kendala, kunjungi Kampus Anggrek Lantai 7, ruangan 730 (Jam operasional 9:30-17:00) atau akses Beelingua Corner online di bit.ly/BeelinguaCorner."
+    },
+
+
+    {
+        "text_input": "Apa itu Student Advisory and Support Center (SASC)?",
+        "output": "Student Advisory and Support Center (SASC) adalah unit pendukung di BINUS University yang menyediakan layanan akademik dan non-akademik bagi mahasiswa, termasuk layanan kesejahteraan mahasiswa, monitoring akademik, mentoring, layanan disabilitas, dan dukungan sumber daya belajar."
+    },
+    {
+        "text_input": "Apa layanan yang diberikan oleh SASC?",
+        "output": "SASC menyediakan layanan kesejahteraan mahasiswa, monitoring akademik, mentoring, layanan disabilitas, dan dukungan sumber daya belajar."
+    },
+    {
+        "text_input": "Apa itu Layanan Kesejahteraan Mahasiswa?",
+        "output": "Layanan Kesejahteraan Mahasiswa adalah layanan yang membantu mahasiswa dengan masalah psikologis melalui konseling individual dan program khusus untuk meningkatkan kesejahteraan psikologis dan prestasi akademik."
+    },
+    {
+        "text_input": "Apa itu Layanan Monitoring Akademik?",
+        "output": "Layanan Monitoring Akademik adalah layanan yang membantu mahasiswa dengan masalah akademik melalui konseling individual dan program khusus untuk meningkatkan kemampuan akademik mereka."
+    },
+    {
+        "text_input": "Apa itu Mentoring di SASC?",
+        "output": "Mentoring di SASC menyediakan peran mentor, tutor, kesempatan beasiswa, modul pembelajaran, dan lingkungan belajar yang mendukung mahasiswa belajar dengan cara yang kreatif."
+    },
+    {
+        "text_input": "Apa itu Layanan Disabilitas?",
+        "output": "Layanan Disabilitas adalah layanan bagi mahasiswa berkebutuhan khusus atau disabilitas yang memerlukan akomodasi dan bantuan untuk mengikuti kegiatan belajar mengajar di BINUS University secara optimal."
+    },
+    {
+        "text_input": "Apa itu Dukungan Sumber Daya Belajar?",
+        "output": "Dukungan Sumber Daya Belajar menyediakan informasi tentang beasiswa dan program dukungan untuk membantu mahasiswa mencapai prestasi akademik optimal dan menyelesaikan studi tepat waktu."
+    },
+    {
+        "text_input": "Bagaimana cara menghubungi SASC?",
+        "output": "Kontak SASC di 021-5345830 atau kunjungi Kampus Anggrek Lantai 5, ruangan 511 dan 515. Jam operasional: Senin-Kamis 09:00 – 17:00, Jumat 09:00 – 17:00, Sabtu 09:00 – 15:00. Anda juga bisa menghubungi SASC di media sosial melalui https://linktr.ee/studentadvisorybinus."
+    },
+    {
+        "text_input": "Gambaran umum jadwal perkuliahan",
+        "output": "Perkuliahan ada pada hari Senin-Sabtu. Setiap sesinya 100 menit. Jam perkuliahannya akan sesuai dengan jadwal masing-masing kelasnya."
+    },
+    {
+        "text_input": "Libur pergantian semester",
+        "output": "Terdapat libur semester pergantian semester genap ke ganjil yang bisasanya berlangsung pada bulan Juli hingga September. Libur pergantian semester ganjil ke genap biasanya berlangsung selama 2 minggu di bulan Februari."
+    },
+    {
+        "text_input": "Pengambilan semester pendek",
+        "output" : " Mahasiswa yang mengulang dapat mengambil semester pendek pada libur semester genap ke ganjil."
+    },
+    {
+        "text_input": "Tes pendaftaran Binus",
+        "output" : "TPKS (Tes Potensi Keberhasilan Studi) dilaksanakan setiap hari Sabtu dengan pendafataran maksimal 1 hari sebelum tes berlangsung."
+    },
+    {
+        "text_input": "IPK minimum untuk lulus",
+        "output": "Total IPK harus berjumlah di atas angka 2,00. Kurang dari 2,00 dianggap gagal."
+    },
+    {
+        "text_input": "SKS minimum untuk lulus",
+        "output": "146 SKS termasuk Skripsi. Untuk Program Ganda dan Program Master Track tergantung pada jurusan dan angkatannya."
+    },
+    {
+        "text_input": "Poin SAT (Student Activity Transcript) minimum untuk lulus",
+        "output": "120 Poin SAT diperoleh karena mengikuti kegiatan-kegiatan yang dapat meningkatkan EES (Employability and Entrepreneurial Skills) baik di dalam ataupun di luar kampus."
+    },
+    {
+        "text_input": "Jam Kerja Kegiatan Sosial Minimum atau Community Service Hours atau Comserv Hours untuk lulus",
+        "output": "30 Jam Kerja Kegiatan Sosial. Aktivitas yang dilakukan untuk membantu masyarakat / lingkungan sekitarnya berbasis kompetensi yang dimiliki dan/atau melakukan aktivitas bersama TFI (Teach For Indonesia)."
+    },
+    {
+        "text_input": "Pengalaman Internasional minimum untuk lulus",
+        "output": "1 Pengalaman Internasional. Kegiatan akademik atau non-akademik yang mengandung pengalaman internasional."
+    },
+    {
+        "text_input": "Poin SAT & Jam Kerja Kegiatan Sosial (Community Service)",
+        "output": "Poin SAT & Jam Kerja Kegiatan Sosial (Community Service) adalah syarat mutlak untuk mengikuti sidang skripsi."
+    },
+    {
+        "text_input": "Masa Studi di BINUS University",
+        "output": "S1 : Lulus tepat waktu: 4 tahun (Maks. 5 Tahun). S1 Program Ganda : Lulus tepat waktu: 5 tahun (Maks. 6 Tahun). Program Master Track : Lulus tepat waktu: 5 tahun (Maks. 6 Tahun)."
+    },
+    {
+        "text_input": "Apa itu UKM?",
+        "output": "UKM adalah singkatan dari Unit Kegiatan Mahasiswa. Yang merupakan wadah berkumpulnya para mahasiswa yang mempunyai kesamaan minat, kegemaran, kreativitas, dan orientasi aktivitas penyaluran kegiatan ekstrakurikuler."
+    },
+    {
+        "text_input": "Banyak UKM di Binus University",
+        "output": "Banyak UKM di Binus University ada 42 UKM yang terbagi menjadi 4 rumpun."
+    },
+    {
+        "text_input": "Rumpun UKM Binus",
+        "output": "Rumpun UKM Binus terdiri dari 4 rumpun besar: Rumpun olahraga dan beladiri, Rumpun UKM penalaran, Rumpun UKM kerohanian dan kemasyarakatan, Rumpun UKM kesenian dan media informasi."
+    },
+    {
+        "text_input": "Apa saja UKM dalam Rumpun Olahraga dan Beladiri?",
+        "output": "UKM dalam Rumpun Olahraga dan Beladiri meliputi: Aikido, Badminton, Bina Nusantara Swimming Club (BASIC), Basket, Merpati Putih (MP), Sepak Bola, Mahasiswa Bina Nusantara Pencinta Alam (SWANARAPALA), Volley, Wushu, Hapkido, Binusian Gaming."
+    },
+    {
+        "text_input": "Apa saja UKM dalam Rumpun Penalaran?",
+        "output": "UKM dalam Rumpun Penalaran meliputi: Binus Entrepreneur (B-Preneur), Binus Game Development Club (BGDC), Binus Business International Club (BIC), Bina Nusantara Computer Club (BNCC), BINUS English Club (BNEC), Bina Nusantara Finance Club (BNFC), Binus Mandarin Club (BNMC), Binus Student Learning Community (BSLC), Cyber Security Community (CSC), International Marketing Community of Binus (IMCB), ISACA Student Group (ISG), Nippon Club."
+    },
+    {
+        "text_input": "Apa saja UKM dalam Rumpun Kerohanian dan Kemasyarakatan?",
+        "output": "UKM dalam Rumpun Kerohanian dan Kemasyarakatan meliputi: AIESEC in BINUS, BINUS Square Student Committee (BSSC), Keluarga Besar Mahasiswa Khonghuchu (KBMK), Keluarga Mahasiswa Buddhis Dhammavaddhana (KMBD), Keluarga Mahasiswa Hindu (KMH), Keluarga Mahasiswa Katolik (KMK), Majelis Ta'lim (MT) Al Khawarizmi, Persekutuan Oikumene (PO), TFI Student Community (TFI SC)."
+    },
+    {
+        "text_input": "Apa saja UKM dalam Rumpun Kesenian dan Media Informasi?",
+        "output": "UKM dalam Rumpun Kesenian dan Media Informasi meliputi: B-Voice Radio, Band, Bersama Dalam Musik (BDM), BINUS TV Club, Klub Seni Fotografi Bina Nusantara (KLIFONARA), Paduan Suara Mahasiswa Bina Nusantara (PARAMABIRA), Seni Tari Mahasiswa Bina Nusantara (STAMANARA), Seni Teater Mahasiswa Bina Nusantara (STMANIS), Modeling Club BINUS (MCB), Pojok Aksi dan Informasi Bina Nusantara (Panorama)."
+    },
+    {
+        "text_input": "Apa itu HMJ?",
+        "output": "HMJ adalah singkatan dari Himpunan Mahasiswa Jurusan."
+    },
+    {
+        "text_input": "Apa saja HMJ di School of Computer Science?",
+        "output": "HMJ di School of Computer Science meliputi: Himpunan Mahasiswa Matematika (HIMMAT), Himpunan Mahasiswa Statistika (HIMSTAT), Himpunan Mahasiswa Teknik Informatika (HIMTI)."
+    },
+    {
+        "text_input": "Apa saja HMJ di School of Information Systems?",
+        "output": "HMJ di School of Information Systems adalah Himpunan Mahasiswa Sistem Informasi (HIMSISFO)."
+    },
+    {
+        "text_input": "Apa saja HMJ di School of Design?",
+        "output": "HMJ di School of Design meliputi: Himpunan Mahasiswa Desain Interior (HIMDI), Himpunan Mahasiswa Desain Komunikasi Visual (HIMDKV)."
+    },
+    {
+        "text_input": "Apa saja HMJ di BINUS Business School (Under Graduate)?",
+        "output": "HMJ di BINUS Business School (Under Graduate) meliputi: Himpunan Mahasiswa Bisnis Manajemen (HIMME), Himpunan Mahasiswa Entrepreneur (HIMPRENEUR)."
+    },
+    {
+        "text_input": "Apa saja HMJ di Faculty of Digital Communication and Hotel & Tourism?",
+        "output": "HMJ di Faculty of Digital Communication and Hotel & Tourism meliputi: Himpunan Mahasiswa Communication Department (HIMMCOMM), Himpunan Mahasiswa Pariwisata (HIMPAR), Himpunan Mahasiswa Hotel Management (HOME), United Student Public Relations (USPR)."
+    },
+    {
+        "text_input": "Apa saja HMJ di Faculty of Engineering?",
+        "output": "HMJ di Faculty of Engineering meliputi: Himpunan Mahasiswa Arsitektur (HIMARS), Himpunan Mahasiswa Food Technology (HIMFOODTECH), Himpunan Mahasiswa Sistem Komputer (HIMTEK), Himpunan Mahasiswa Teknik Sipil (HIMTES), Himpunan Mahasiswa Teknik Industri (HIMTRI)."
+    },
+    {
+        "text_input": "Apa saja HMJ di Faculty of Humanities?",
+        "output": "HMJ di Faculty of Humanities meliputi: Himpunan Mahasiswa Sastra China (HIMANDA), Himpunan Mahasiswa Hubungan Internasional (HIMHI), Himpunan Mahasiswa Sastra Jepang (HIMJA), Himpunan Mahasiswa Pendidikan Guru Sekolah Dasar (HIMPGSD), Himpunan Mahasiswa Psikologi (HIMPSIKO), Himpunan Mahasiswa Sastra Inggris (HIMSI), Himpunan Mahasiswa Business Law (HIMSLAW)."
+    },
+    {
+        "text_input": "Apa saja HMJ di School Of Accounting?",
+        "output": "HMJ di School Of Accounting adalah Himpunan Mahasiswa Akuntansi (HIMA)."
+    }
+]
