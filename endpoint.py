@@ -31,5 +31,5 @@ async def generate(user_Request: Request):
     user_message = userMessage(**formData)
     data = user_message.message
     generated_text = genai.send_message(data)
-    response = re.sub(r'[^a-zA-Z0-9 ,?!\.]+', '', generated_text).strip()
+    response = re.sub(r'[^a-zA-Z0-9 ,?!\.\n-]+', '', generated_text).strip()
     return {"generated_text": response}
