@@ -393,7 +393,7 @@
     },
     {
         "text_input_clean":"Dimana lokasi LSC?",
-        "output_clean":"LSC terletak Ruang Lecturer Services Center, Kampus Anggrek lantai 2."
+        "output_clean":"LSC terletak Ruang Lecturer Services Center, Kampus Anggrek Lt. 2."
     },
     {
         "text_input_clean":"menghubungi LSC?",
@@ -413,7 +413,7 @@
     },
     {
         "text_input_clean":"Dimana lokasi SSC?",
-        "output_clean":"SSC terletak Ruang Student Services Center, Kampus Anggrek lantai 1."
+        "output_clean":"SSC terletak Ruang Student Services Center, Kampus Anggrek Lt. 1."
     },
     {
         "text_input_clean":"operasional SSC?",
@@ -477,7 +477,7 @@
     },
     {
         "text_input_clean":"menghubungi SASC?",
-        "output_clean":"Kontak SASC 021-5345830 kunjungi Kampus Anggrek Lantai 5, ruangan 511 515. Jam operasional: Senin-Kamis 09:00 \u2013 17:00, Jumat 09:00 \u2013 17:00, Sabtu 09:00 \u2013 15:00. menghubungi SASC media sosial <a href=\"https://linktr.ee/studentadvisorybinus\" target=\"_blank\">https://linktr.ee/studentadvisorybinus</a>."
+        "output_clean":"Kontak SASC 021-5345830 kunjungi Kampus Anggrek Lantai 5, ruangan 511 515. Jam operasional: Senin-Kamis 09:00 \u2013 17:00, Jumat 09:00 \u2013 17:00, Sabtu 09:00 \u2013 15:00. menghubungi SASC media sosial<a href=\"https://linktr.ee/studentadvisorybinus\" target=\"_blank\">https://linktr.ee/studentadvisorybinus</a>."
     },
     {
         "text_input_clean":"Gambaran jadwal perkuliahan",
@@ -586,5 +586,277 @@
     {
         "text_input_clean":"HMJ School Of Accounting?",
         "output_clean":"HMJ School Of Accounting Himpunan Mahasiswa Akuntansi (HIMA)."
+    },
+    {
+        "text_input_clean":"program studi School of Computer Science?",
+        "output_clean":"Program studi School of Computer Science meliputi: Artificial Intelligence, Computer Science, Cyber Security, Data Science, Game Application and Technology."
+    },
+    {
+        "text_input_clean":"program studi School of Accounting?",
+        "output_clean":"Program studi School of Accounting meliputi: Accounting, Finance, Taxation."
+    },
+    {
+        "text_input_clean":"program studi School of Information Systems?",
+        "output_clean":"Program studi School of Information Systems meliputi: Business Analytics, Information Systems."
+    },
+    {
+        "text_input_clean":"program studi School of Design?",
+        "output_clean":"Program studi School of Design meliputi: Interior Design, Fashion, Film, Visual Communication Design - Animation, Visual Communication Design - Creative Advertising, Visual Communication Design - New Media."
+    },
+    {
+        "text_input_clean":"program studi Business School?",
+        "output_clean":"Program studi Business School meliputi: Business Creation, Global Business Marketing, International Business Management, Management."
+    },
+    {
+        "text_input_clean":"program studi Faculty of Humanities?",
+        "output_clean":"Program studi Faculty of Humanities meliputi: Chinese - Global Business Chinese, English - Creative Digital English, International Relations, Japanese Popular Culture, Law - Business Law, Primary Teacher Education, Digital Psychology."
+    },
+    {
+        "text_input_clean":"program studi Faculty of Digital Communication and Hotel & Tourism?",
+        "output_clean":"Program studi Faculty of Digital Communication and Hotel & Tourism meliputi: Communication - Marketing Communication, Communication - Mass Communication, Communication - Public Relations, Hotel Management, Tourism."
+    },
+    {
+        "text_input_clean":"program studi Faculty of Engineering?",
+        "output_clean":"Program studi Faculty of Engineering meliputi: Architecture, Biotechnology, Civil Engineering, Computer Engineering, Food Technology, Industrial Engineering."
+    },
+    {
+        "text_input_clean":"program studi BINUS @Bandung?",
+        "output_clean":"Program studi BINUS @Bandung meliputi: Creativepreneurship, Computer Science, Interior Design, Visual Communication Design. Double Programs meliputi: Digital Business Innovation (Creativepreneurship & Information Systems), Interactive Design & Technology (Visual Communication Design & Information Systems), Digital Psychology (Psychology & Computer Science)."
+    },
+    {
+        "text_input_clean":"program studi BINUS @Malang?",
+        "output_clean":"Program studi BINUS @Malang meliputi: Communication, Computer Science, Entrepreneurship - Business Creation, Interior Design, International Relations, Visual Communication Design. Double Programs meliputi: Digital Business Innovation (Creativepreneurship & Information Systems), Interactive Design & Technology (Visual Communication Design & Information Systems), Digital Psychology (Psychology & Computer Science)."
+    },
+    {
+        "text_input_clean":"program studi BINUS @Semarang?",
+        "output_clean":"Program studi BINUS @Semarang meliputi: Computer Science, Digital Business, Smart Industrial Engineering, Information Systems, Visual Communication Design. Double Program meliputi: Digital Psychology (Psychology & Computer Science)."
+    },
+    {
+        "text_input_clean":"program studi BINUS @Bekasi?",
+        "output_clean":"Program studi BINUS @Bekasi meliputi: Accounting, Business Hotel Management, Business Information Technology, Business Management, Computer Science - Software Engineering, Creative Communication, Management (Business and Organizational Dynamic), Psychology. Double Program meliputi: Digital Business Innovation (Creativepreneurship & Information Systems)."
+    },
+    {
+        "text_input_clean":"double program?",
+        "output_clean":"Double program program mahasiswa mengambil 2 program studi lulus 2 gelar S1."
+    },
+    {
+        "text_input_clean":"Akreditasi BINUS",
+        "output_clean":"Universitas Bina Nusantara akreditasi Unggul BAN-PT (Badan Akreditasi Nasional Perguruan Tinggi)"
+    },
+    {
+        "text_input_clean":"program studi Universitas Bina Nusantara",
+        "output_clean":"Universitas Bina Nusantara memiliki 56 program studi."
+    },
+    {
+        "text_input_clean":"Akreditasi Nasional program studi BINUS",
+        "output_clean":"total 56 prodi, 7 prodi terakreditasi A, 13 prodi terakreditasi B, 14 prodi terakreditasi Baik, 2 prodi terakreditasi Sekali, 20 prodi terakreditasi Unggul."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Teknik Informatika Greater Jakarta lembaga BAN-PT peringkat A."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Matematika Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Matematika Greater Jakarta lembaga BAN-PT peringkat A."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Film Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Film Greater Jakarta lembaga BAN-PT peringkat A."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Sastra Cina Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Sastra Cina Greater Jakarta lembaga BAN-PT peringkat A."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Arsitektur Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Arsitektur Greater Jakarta lembaga BAN-PT peringkat A."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Ilmu Komunikasi Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Ilmu Komunikasi Greater Jakarta lembaga BAN-PT peringkat A."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Malang Jenjang Sarjana Program Studi Hubungan Masyarakat Akreditasi Nasional Malang",
+        "output_clean":"Akreditasi Hubungan Masyarakat Malang lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Bandung Jenjang Sarjana Program Studi Kewirausahaan Akreditasi Nasional Bandung",
+        "output_clean":"Akreditasi Kewirausahaan Bandung lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Ilmu Komunikasi Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Ilmu Komunikasi Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Destinasi Pariwisata Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Destinasi Pariwisata Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Manajemen Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi PJJ Manajemen Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Sistem Informasi Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi PJJ Sistem Informasi Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Teknik Informatika Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi PJJ Teknik Informatika Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Akuntansi Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi PJJ Akuntansi Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Teknik Industri Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi PJJ Teknik Industri Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Profesi Program Studi Profesi Insinyur Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Profesi Insinyur Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Interior Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Desain Interior Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Statistika Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Statistika Greater Jakarta lembaga BAN-PT peringkat B."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Produk Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Desain Produk Greater Jakarta lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Semarang Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional Semarang",
+        "output_clean":"Akreditasi Desain Komunikasi Visual Semarang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Semarang Jenjang Sarjana Program Studi Teknik Industri Akreditasi Nasional Semarang",
+        "output_clean":"Akreditasi Teknik Industri Semarang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Bandung Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional Bandung",
+        "output_clean":"Akreditasi Teknik Informatika Bandung lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Semarang Jenjang Sarjana Program Studi Sistem Informasi Akreditasi Nasional Semarang",
+        "output_clean":"Akreditasi Sistem Informasi Semarang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Semarang Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional Semarang",
+        "output_clean":"Akreditasi Teknik Informatika Semarang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Semarang Jenjang Sarjana Program Studi Bisnis Digital Akreditasi Nasional Semarang",
+        "output_clean":"Akreditasi Bisnis Digital Semarang lembaga LAMEMBA peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Malang Jenjang Sarjana Program Studi Ilmu Komunikasi Akreditasi Nasional Malang",
+        "output_clean":"Akreditasi Ilmu Komunikasi Malang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Bioteknologi Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Bioteknologi Greater Jakarta lembaga LAM TEKNIK peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Malang Jenjang Sarjana Program Studi Desain Interior Akreditasi Nasional Malang",
+        "output_clean":"Akreditasi Desain Interior Malang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Malang Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional Malang",
+        "output_clean":"Akreditasi Desain Komunikasi Visual Malang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Malang Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional Malang",
+        "output_clean":"Akreditasi Teknik Informatika Malang lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Bandung Jenjang Sarjana Program Studi Desain Interior Akreditasi Nasional Bandung",
+        "output_clean":"Akreditasi Desain Interior Bandung lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Bandung Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional Bandung",
+        "output_clean":"Akreditasi Desain Komunikasi Visual Bandung lembaga BAN-PT peringkat Baik."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Diploma Program Studi Perhotelan Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Perhotelan Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Doktor Program Studi Ilmu Komputer Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Ilmu Komputer Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Doktor Program Studi Manajemen Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Manajemen Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Teknologi Informasi Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Teknologi Informasi Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Ekonomi Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Ekonomi Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Manajemen Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Manajemen Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Kewirausahaan Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Kewirausahaan Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Produk Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Desain Produk Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Desain Komunikasi Visual Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Teknologi Industri Akreditasi Nasional Greater Jakarta",
+        "output_clean":"Akreditasi Teknologi Industri Greater Jakarta lembaga BAN-PT peringkat Sekali."
+    },
+    {
+        "text_input_clean":"akreditasi internasional dimiliki BINUS?",
+        "output_clean":"Akreditasi internasional dimiliki BINUS meliputi: AACSB, ABET, ASIIN, AUNQA, Euro-Inf. Master, HEEACT, ABEE"
+    },
+    {
+        "text_input_clean":"Akreditasi internasional program studi BINUS",
+        "output_clean":"3 prodi akreditasi AACSB, 3 prodi akreditasi ABET, 5 prodi akreditasi ASIIN, 3 prodi akreditasi AUNQA, 3 prodi akreditasi Euro-Inf. Bachelor, 1 prodi akreditasi Euro-Inf. Master, 15 prodi akreditasi HEEACT, 3 prodi akreditasi IABEE, 1 prodi akreditasi TedQual."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi AACSB Greater Jakarta?",
+        "output_clean":"Program studi terakreditasi AACSB Greater Jakarta meliputi: Doktor Ilmu Manajemen, Magister Manajemen, Sarjana Manajemen."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi ABET Greater Jakarta?",
+        "output_clean":"Program studi terakreditasi ABET Greater Jakarta meliputi: Sarjana Teknik Industri, Sarjana Teknik Sipil, Sarjana Sistem Komputer."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi ASIIN?",
+        "output_clean":"Program studi terakreditasi ASIIN meliputi: Sarjana Teknik Informatika Bandung, Doktor Ilmu Komputer Greater Jakarta, Sarjana Teknik Informatika Malang, Magister Teknik Informatika Greater Jakarta, Sarjana Teknik Informatika Greater Jakarta."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi AUNQA Greater Jakarta?",
+        "output_clean":"Program studi terakreditasi AUNQA Greater Jakarta meliputi: Sarjana Desain Komunikasi Visual, Sarjana Teknik Informatika, Sarjana Sistem Informasi."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi Euro-Inf. Bachelor?",
+        "output_clean":"Program studi terakreditasi Euro-Inf. Bachelor meliputi: Sarjana Teknik Informatika Greater Jakarta, Sarjana Teknik Informatika Malang, Sarjana Teknik Informatika Bandung."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi Euro-Inf. Master Greater Jakarta?",
+        "output_clean":"Program studi terakreditasi Euro-Inf. Master Greater Jakarta meliputi: Magister Teknik Informatika."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi HEEACT?",
+        "output_clean":"Program studi terakreditasi HEEACT meliputi: Diploma Perhotelan Greater Jakarta, Sarjana Desain Komunikasi Visual Semarang, Sarjana Desain Komunikasi Visual Malang, Sarjana Desain Komunikasi Visual Bandung, Magister Akuntansi Greater Jakarta, Sarjana Desain Interior Greater Jakarta, Sarjana Psikologi Greater Jakarta, Sarjana Ilmu Hukum Greater Jakarta, Sarjana Hubungan Internasional Greater Jakarta, Sarjana Desain Komunikasi Visual Greater Jakarta, Sarjana Desain Produk Greater Jakarta, Sarjana Film Greater Jakarta, Sarjana Teknologi Pangan Greater Jakarta, Sarjana Akuntansi Greater Jakarta, Sarjana Sastra Jepang Greater Jakarta."
+    },
+    {
+        "text_input_clean":"program studi terakreditasi IABEE Greater Jakarta?",
+        "output_clean":"Program studi terakreditasi IABEE Greater Jakarta meliputi: Sarjana Sistem Komputer, Sarjana Teknik Industri, Sarjana Teknik Sipil."
     }
 ]

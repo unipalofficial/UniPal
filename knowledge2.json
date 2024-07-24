@@ -1,7 +1,7 @@
 [
     {
         "text_input": "Dimana saja tempat belajar di BINUS University?",
-        "output": "Tempat belajar di BINUS University meliputi perpustakaan/LKC, Beehub, dan Lobby tengah."
+        "output": "Tempat belajar di BINUS University meliputi perpustakaan atau LKC, Beehub, dan Lobby tengah."
     },
     {
         "text_input": "Apa itu LKC (Library and Knowledge Center)?",
@@ -47,11 +47,11 @@
 
     {
         "text_input": "Apa saja tempat makan yang ada di dalam Kampus BINUS?",
-        "output": "Tempat makan di dalam Kampus BINUS meliputi Kantin Payung, Kantin Basement, dan berbagai pilihan resto/bakery/coffee shop di lobby tengah lantai 1."
+        "output": "Tempat makan di dalam Kampus BINUS meliputi Kantin Payung, Kantin Basement, dan berbagai pilihan resto, bakery, coffee shop di lobby tengah lantai 1."
     },
     {
         "text_input": "Apa itu Kantin Payung?",
-        "output": "Kantin Payung adalah area makan outdoor yang terletak di lantai basement, di depan gedung parkir. Di sini terdapat berbagai pilihan makanan dan minuman seperti Xiao Kee yang menjual berbagai menu nasi ayam hainam, Wong Potato yang menjual kentang goreng, My Crepes yang menjual berbagai pilihan crepes, Omon’s Corner yang menjual jus buah, Hakuya yang menjual beef rice bowl, dan Tea Well yang menjual berbagai minuman seperti teh, kopi, dan berbagai minuman lainnya."
+        "output": "Kantin Payung adalah area makan outdoor yang terletak di lantai basement, di depan gedung parkir. Di sini terdapat berbagai pilihan makanan dan minuman seperti Xiao Kee yang menjual berbagai menu nasi ayam hainam, Wong Potato yang menjual kentang goreng, My Crepes yang menjual berbagai pilihan crepes, Omon's Corner yang menjual jus buah, Hakuya yang menjual beef rice bowl, dan Tea Well yang menjual berbagai minuman seperti teh, kopi, dan berbagai minuman lainnya."
     },
     {
         "text_input": "Dimana lokasi Kantin Payung?",
@@ -59,7 +59,7 @@
     },
     {
         "text_input": "Apa saja pilihan makanan dan minuman di Kantin Payung?",
-        "output": "Pilihan makanan dan minuman di Kantin Payung meliputi Xiao Kee (nasi ayam hainam), Wong Potato (kentang goreng), My Crepes (crepes), Omon’s Corner (jus buah), Hakuya (beef rice bowl), dan Tea Well (teh, kopi, dan berbagai minuman lainnya)."
+        "output": "Pilihan makanan dan minuman di Kantin Payung meliputi Xiao Kee (nasi ayam hainam), Wong Potato (kentang goreng), My Crepes (crepes), Omon's Corner (jus buah), Hakuya (beef rice bowl), dan Tea Well (teh, kopi, dan berbagai minuman lainnya)."
     },
     {
         "text_input": "Apa itu Xiao Kee?",
@@ -86,12 +86,12 @@
         "output": "Pilihan makanan di My Crepes meliputi berbagai pilihan crepes."
     },
     {
-        "text_input": "Apa itu Omon’s Corner?",
-        "output": "Omon’s Corner adalah kios di Kantin Payung yang menjual jus buah."
+        "text_input": "Apa itu Omon's Corner?",
+        "output": "Omon's Corner adalah kios di Kantin Payung yang menjual jus buah."
     },
     {
-        "text_input": "Apa saja pilihan minuman di Omon’s Corner?",
-        "output": "Pilihan minuman di Omon’s Corner meliputi berbagai jus buah."
+        "text_input": "Apa saja pilihan minuman di Omon's Corner?",
+        "output": "Pilihan minuman di Omon's Corner meliputi berbagai jus buah."
     },
     {
         "text_input": "Apa itu Hakuya?",
@@ -178,8 +178,8 @@
         "output": "Pilihan di Beehive meliputi minuman kemasan dan snack kemasan."
     },
     {
-        "text_input": "Apa saja pilihan resto/bakery/coffee shop di lobby tengah lantai 1?",
-        "output": "Pilihan resto/bakery/coffee shop di lobby tengah lantai 1 meliputi Starbucks, A&W, The Harvest Express, dan Hokben (Hoka-Hoka Bento)."
+        "text_input": "Apa saja pilihan resto, bakery, coffee shop di lobby tengah lantai 1?",
+        "output": "Pilihan resto, bakery, coffee shop di lobby tengah lantai 1 meliputi Starbucks, A&W, The Harvest Express, dan Hokben (Hoka-Hoka Bento)."
     },
     {
         "text_input": "Apa saja pilihan makanan dan minuman di Starbucks?",
@@ -213,6 +213,43 @@
         "text_input": "Dimana lokasi Hokben (Hoka-Hoka Bento)?",
         "output": "Hokben (Hoka-Hoka Bento) terletak di Lobby tengah lantai 1."
     },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual kwetiau?",
+        "output": "Tempat makan di luar kampus yang menjual kwetiau adalah Kwetiau 79, Come & Eat, dan Sola Gratia Binus."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual sushi?",
+        "output": "Tempat makan di luar kampus yang menjual sushi adalah Geisha The Sushi House."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual ayam geprek?",
+        "output": "Tempat makan di luar kampus yang menjual ayam geprek adalah Ayam Blenger PSP dan Ayam Keprabon Express."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual onigiri?",
+        "output": "Tempat makan di luar kampus yang menjual onigiri adalah Kodaigiri."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual es krim?",
+        "output": "Tempat makan di luar kampus yang menjual es krim adalah Mixue."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual nasi goreng?",
+        "output": "Tempat makan di luar kampus yang menjual nasi goreng adalah Kwetiau 79, Come & Eat, Sola Gratia Binus, Kantin Lorong Jaya, dan Nasi Goreng Pak Indri."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual steak?",
+        "output": "Tempat makan di luar kampus yang menjual steak adalah Steak 76 dan Geisha The Sushi House."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual soto?",
+        "output": "Tempat makan di luar kampus yang menjual soto adalah Kantin Lorong Jaya dan Warteg Marimas Bahari."
+    },
+    {
+        "text_input": "Tempat makan di luar kampus yang menjual bakmie?",
+        "output": "Tempat makan di luar kampus yang menjual bakmie adalah Kwetiau 79, Come & Eat, dan Sola Gratia Binus."
+    },
+    
     {
         "text_input": "Di mana lokasi Kwetiau 79?",
         "output": "Lokasi Kwetiau 79 di jalan Anggrek Cakra no 17 (dari parkiran basement belok kanan)."
@@ -251,7 +288,7 @@
     },
     {
         "text_input": "Apa saja pilihan makanan di Geisha The Sushi House?",
-        "output": "Pilihan makanan di Geisha The Sushi House meliputi makanan khas Jepang seperti sushi, temaki, ramen, inari, salad, sashimi, udon, soba, spaghetti/fettuccine, donburi, steak, curry, omurice, dll."
+        "output": "Pilihan makanan di Geisha The Sushi House meliputi makanan khas Jepang seperti sushi, temaki, ramen, inari, salad, sashimi, udon, soba, spaghetti atau fettuccine, donburi, steak, curry, omurice, dll."
     },
     {
         "text_input": "Di mana lokasi Rocky?",
@@ -324,10 +361,7 @@
     {
         "text_input": "Apa saja pilihan makanan di Nasi Goreng Pak Indri?",
         "output": "Pilihan makanan di Nasi Goreng Pak Indri meliputi aneka nasi goreng dan olahan ayam serta sayuran."
-    },
-
-
-    
+    },   
     {
         "text_input": "Di mana lokasi tempat parkir mobil di kampus?",
         "output": "Tempat parkir mobil ada di bagian depan kampus, basement, dan juga tersedia gedung parkir di bagian belakang kampus."
@@ -356,12 +390,9 @@
         "text_input": "Kapan waktu kemacetan biasanya terjadi di kampus?",
         "output": "Untuk jam kemacetan tidak dapat dipastikan, tapi biasanya macet saat jam masuk dan jam keluar (saat pergantian shift)."
     },
-
-
-
     {
         "text_input": "Apa itu LSC (Lecturer Services Center)?",
-        "output": "LSC (Lecturer Services Center) adalah layanan yang menyediakan pengurusan segala hal terkait mata kuliah, absensi, pengumpulan tugas/ujian, dan interaksi dengan dosen seperti bimbingan atau kegiatan terkait belajar-mengajar."
+        "output": "LSC (Lecturer Services Center) adalah layanan yang menyediakan pengurusan segala hal terkait mata kuliah, absensi, pengumpulan tugas atau ujian, dan interaksi dengan dosen seperti bimbingan atau kegiatan terkait belajar-mengajar."
     },
     {
         "text_input": "Dimana lokasi LSC?",
@@ -369,14 +400,12 @@
     },
     {
         "text_input": "Bagaimana cara menghubungi LSC?",
-        "output": "Kontak LSC dapat dilihat pada link [https://linktr.ee/contactlsc]."
+        "output": "Kontak LSC dapat dilihat pada link <a href=\"https://linktr.ee/contactlsc\" target=\"_blank\">https://linktr.ee/contactlsc</a>."
     },
     {
         "text_input": "Contoh kasus mahasiswa perlu ke LSC?",
         "output": "Jika mahasiswa mengalami kendala terkait status kehadiran seperti tidak terdata setelah hadir kelas dengan wifi attendance atau masalah jaringan saat wifi attendance, disarankan untuk segera berkonsultasi ke Lecture Service Center (LSC) atau unit sejenis di kampus. Mahasiswa harus menyampaikan nama, NIM, program studi, kronologis kendala absensi, serta menunjukkan bukti kehadiran untuk mendapatkan bantuan segera."
     },
-
-
     {
         "text_input": "Apa itu SSC (Student Service Center)?",
         "output": "SSC (Student Service Center) adalah media informasi untuk mahasiswa yang menyediakan layanan terkait perkuliahan, ujian, keuangan, registrasi, wisuda, administrasi seperti permintaan surat-surat, daftar nilai kumulatif, dan pengambilan berkas kelulusan."
@@ -395,7 +424,7 @@
     },
     {
         "text_input": "Bagaimana cara menghubungi SSC?",
-        "output": "Untuk menghubungi SSC, silakan login ke Binusmaya, lalu pilih menu FEEDBACK dan klik Send Feedback. Anda juga dapat menghubungi melalui telepon di (021) 5345830 ext: 1181/1182."
+        "output": "Untuk menghubungi SSC, silakan login ke Binusmaya, lalu pilih menu FEEDBACK dan klik Send Feedback. Anda juga dapat menghubungi melalui telepon di (021) 5345830."
     },
     
 
@@ -417,11 +446,11 @@
     },
     {
         "text_input": "Bagaimana cara mengakses Beelingua?",
-        "output": "Silakan login melalui: https://newbinusmaya.binus.ac.id/beelingua."
+        "output": "Silakan login melalui: <a href=\"https://newbinusmaya.binus.ac.id/beelingua\" target=\"_blank\">https://newbinusmaya.binus.ac.id/beelingua</a>."
     },
     {
         "text_input": "Apa yang harus dilakukan jika ada kendala saat menggunakan Beelingua?",
-        "output": "Jika ada kendala, kunjungi Kampus Anggrek Lantai 7, ruangan 730 (Jam operasional 9:30-17:00) atau akses Beelingua Corner online di bit.ly/BeelinguaCorner."
+        "output": "Jika ada kendala, kunjungi Kampus Anggrek Lantai 7, ruangan 730 (Jam operasional 9:30-17:00) atau akses Beelingua Corner online di <a href=\"http://bit.ly/BeelinguaCorner\" target=\"_blank\">bit.ly/BeelinguaCorner</a>."
     },
 
 
@@ -455,7 +484,7 @@
     },
     {
         "text_input": "Bagaimana cara menghubungi SASC?",
-        "output": "Kontak SASC di 021-5345830 atau kunjungi Kampus Anggrek Lantai 5, ruangan 511 dan 515. Jam operasional: Senin-Kamis 09:00 – 17:00, Jumat 09:00 – 17:00, Sabtu 09:00 – 15:00. Anda juga bisa menghubungi SASC di media sosial melalui https://linktr.ee/studentadvisorybinus."
+        "output": "Kontak SASC di 021-5345830 atau kunjungi Kampus Anggrek Lantai 5, ruangan 511 dan 515. Jam operasional: Senin-Kamis 09:00 – 17:00, Jumat 09:00 – 17:00, Sabtu 09:00 – 15:00. Anda juga bisa menghubungi SASC di media sosial melalui <a href=\"https://linktr.ee/studentadvisorybinus\" target=\"_blank\">https://linktr.ee/studentadvisorybinus</a>."
     },
     {
         "text_input": "Gambaran umum jadwal perkuliahan",
@@ -487,7 +516,7 @@
     },
     {
         "text_input": "Jam Kerja Kegiatan Sosial Minimum atau Community Service Hours atau Comserv Hours untuk lulus",
-        "output": "30 Jam Kerja Kegiatan Sosial. Aktivitas yang dilakukan untuk membantu masyarakat / lingkungan sekitarnya berbasis kompetensi yang dimiliki dan/atau melakukan aktivitas bersama TFI (Teach For Indonesia)."
+        "output": "30 Jam Kerja Kegiatan Sosial. Aktivitas yang dilakukan untuk membantu masyarakat atau lingkungan sekitarnya berbasis kompetensi yang dimiliki atau melakukan aktivitas bersama TFI (Teach For Indonesia)."
     },
     {
         "text_input": "Pengalaman Internasional minimum untuk lulus",
@@ -564,5 +593,277 @@
     {
         "text_input": "Apa saja HMJ di School Of Accounting?",
         "output": "HMJ di School Of Accounting adalah Himpunan Mahasiswa Akuntansi (HIMA)."
+    },
+    {
+        "text_input": "Apa saja program studi di School of Computer Science?",
+        "output": "Program studi di School of Computer Science meliputi: Artificial Intelligence, Computer Science, Cyber Security, Data Science, Game Application and Technology."
+    },
+    {
+        "text_input": "Apa saja program studi di School of Accounting?",
+        "output": "Program studi di School of Accounting meliputi: Accounting, Finance, Taxation."
+    },
+    {
+        "text_input": "Apa saja program studi di School of Information Systems?",
+        "output": "Program studi di School of Information Systems meliputi: Business Analytics, Information Systems."
+    },
+    {
+        "text_input": "Apa saja program studi di School of Design?",
+        "output": "Program studi di School of Design meliputi: Interior Design, Fashion, Film, Visual Communication Design - Animation, Visual Communication Design - Creative Advertising, Visual Communication Design - New Media."
+    },
+    {
+        "text_input": "Apa saja program studi di Business School?",
+        "output": "Program studi di Business School meliputi: Business Creation, Global Business Marketing, International Business Management, Management."
+    },
+    {
+        "text_input": "Apa saja program studi di Faculty of Humanities?",
+        "output": "Program studi di Faculty of Humanities meliputi: Chinese - Global Business Chinese, English - Creative Digital English, International Relations, Japanese Popular Culture, Law - Business Law, Primary Teacher Education, Digital Psychology."
+    },
+    {
+        "text_input": "Apa saja program studi di Faculty of Digital Communication and Hotel & Tourism?",
+        "output": "Program studi di Faculty of Digital Communication and Hotel & Tourism meliputi: Communication - Marketing Communication, Communication - Mass Communication, Communication - Public Relations, Hotel Management, Tourism."
+    },
+    {
+        "text_input": "Apa saja program studi di Faculty of Engineering?",
+        "output": "Program studi di Faculty of Engineering meliputi: Architecture, Biotechnology, Civil Engineering, Computer Engineering, Food Technology, Industrial Engineering."
+    },
+    {
+        "text_input": "Apa saja program studi di BINUS @Bandung?",
+        "output": "Program studi di BINUS @Bandung meliputi: Creativepreneurship, Computer Science, Interior Design, Visual Communication Design. Double Programs meliputi: Digital Business Innovation (Creativepreneurship & Information Systems), Interactive Design & Technology (Visual Communication Design & Information Systems), Digital Psychology (Psychology & Computer Science)."
+    },
+    {
+        "text_input": "Apa saja program studi di BINUS @Malang?",
+        "output": "Program studi di BINUS @Malang meliputi: Communication, Computer Science, Entrepreneurship - Business Creation, Interior Design, International Relations, Visual Communication Design. Double Programs meliputi: Digital Business Innovation (Creativepreneurship & Information Systems), Interactive Design & Technology (Visual Communication Design & Information Systems), Digital Psychology (Psychology & Computer Science)."
+    },
+    {
+        "text_input": "Apa saja program studi di BINUS @Semarang?",
+        "output": "Program studi di BINUS @Semarang meliputi: Computer Science, Digital Business, Smart Industrial Engineering, Information Systems, Visual Communication Design. Double Program meliputi: Digital Psychology (Psychology & Computer Science)."
+    },
+    {
+        "text_input": "Apa saja program studi di BINUS @Bekasi?",
+        "output": "Program studi di BINUS @Bekasi meliputi: Accounting, Business Hotel Management, Business Information Technology, Business Management, Computer Science - Software Engineering, Creative Communication, Management (Business and Organizational Dynamic), Psychology. Double Program meliputi: Digital Business Innovation (Creativepreneurship & Information Systems)."
+    },
+    {
+        "text_input": "Apa itu double program?",
+        "output": "Double program merupakan program di mana mahasiswa akan mengambil 2 program studi sekaligus dan lulus dengan 2 gelar S1."
+    },
+    {
+        "text_input": "Akreditasi BINUS",
+        "output": "Universitas Bina Nusantara mendapatkan akreditasi Unggul dari BAN-PT (Badan Akreditasi Nasional Perguruan Tinggi)"
+    },
+    {
+        "text_input": "Jumlah program studi di Universitas Bina Nusantara",
+        "output": "Universitas Bina Nusantara memiliki 56 program studi."
+    },
+    {
+        "text_input": "Akreditasi Nasional program studi di BINUS",
+        "output": "Dengan total 56 prodi, 7 prodi terakreditasi A, 13 prodi terakreditasi B, 14 prodi terakreditasi Baik, 2 prodi terakreditasi Baik Sekali, dan 20 prodi terakreditasi Unggul."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Teknik Informatika di Greater Jakarta dari lembaga BAN-PT dengan peringkat A."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Matematika Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Matematika di Greater Jakarta dari lembaga BAN-PT dengan peringkat A."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Film Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Film di Greater Jakarta dari lembaga BAN-PT dengan peringkat A."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Sastra Cina Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Sastra Cina di Greater Jakarta dari lembaga BAN-PT dengan peringkat A."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Arsitektur Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Arsitektur di Greater Jakarta dari lembaga BAN-PT dengan peringkat A."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Ilmu Komunikasi Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Ilmu Komunikasi di Greater Jakarta dari lembaga BAN-PT dengan peringkat A."
+    },
+    {
+        "text_input": "Kampus BINUS @Malang Jenjang Sarjana Program Studi Hubungan Masyarakat Akreditasi Nasional di Malang",
+        "output": "Akreditasi Hubungan Masyarakat di Malang dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Bandung Jenjang Sarjana Program Studi Kewirausahaan Akreditasi Nasional di Bandung",
+        "output": "Akreditasi Kewirausahaan di Bandung dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Ilmu Komunikasi Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Ilmu Komunikasi di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Destinasi Pariwisata Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Destinasi Pariwisata di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Manajemen Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi PJJ Manajemen di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Sistem Informasi Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi PJJ Sistem Informasi di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Teknik Informatika Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi PJJ Teknik Informatika di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Akuntansi Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi PJJ Akuntansi di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi PJJ Teknik Industri Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi PJJ Teknik Industri di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Profesi Program Studi Profesi Insinyur Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Profesi Insinyur di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Interior Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Desain Interior di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Statistika Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Statistika di Greater Jakarta dari lembaga BAN-PT dengan peringkat B."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Produk Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Desain Produk di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Semarang Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional di Semarang",
+        "output": "Akreditasi Desain Komunikasi Visual di Semarang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Semarang Jenjang Sarjana Program Studi Teknik Industri Akreditasi Nasional di Semarang",
+        "output": "Akreditasi Teknik Industri di Semarang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Bandung Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional di Bandung",
+        "output": "Akreditasi Teknik Informatika di Bandung dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Semarang Jenjang Sarjana Program Studi Sistem Informasi Akreditasi Nasional di Semarang",
+        "output": "Akreditasi Sistem Informasi di Semarang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Semarang Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional di Semarang",
+        "output": "Akreditasi Teknik Informatika di Semarang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Semarang Jenjang Sarjana Program Studi Bisnis Digital Akreditasi Nasional di Semarang",
+        "output": "Akreditasi Bisnis Digital di Semarang dari lembaga LAMEMBA dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Malang Jenjang Sarjana Program Studi Ilmu Komunikasi Akreditasi Nasional di Malang",
+        "output": "Akreditasi Ilmu Komunikasi di Malang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Bioteknologi Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Bioteknologi di Greater Jakarta dari lembaga LAM TEKNIK dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Malang Jenjang Sarjana Program Studi Desain Interior Akreditasi Nasional di Malang",
+        "output": "Akreditasi Desain Interior di Malang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Malang Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional di Malang",
+        "output": "Akreditasi Desain Komunikasi Visual di Malang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Malang Jenjang Sarjana Program Studi Teknik Informatika Akreditasi Nasional di Malang",
+        "output": "Akreditasi Teknik Informatika di Malang dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Bandung Jenjang Sarjana Program Studi Desain Interior Akreditasi Nasional di Bandung",
+        "output": "Akreditasi Desain Interior di Bandung dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Bandung Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional di Bandung",
+        "output": "Akreditasi Desain Komunikasi Visual di Bandung dari lembaga BAN-PT dengan peringkat Baik."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Diploma Program Studi Perhotelan Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Perhotelan di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Doktor Program Studi Ilmu Komputer Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Ilmu Komputer di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Doktor Program Studi Manajemen Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Manajemen di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Teknologi Informasi Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Teknologi Informasi di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Ekonomi Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Ekonomi di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Magister Program Studi Manajemen Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Manajemen di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Kewirausahaan Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Kewirausahaan di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Produk Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Desain Produk di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Desain Komunikasi Visual Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Desain Komunikasi Visual di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Kampus BINUS @Greater Jakarta Jenjang Sarjana Program Studi Teknologi Industri Akreditasi Nasional di Greater Jakarta",
+        "output": "Akreditasi Teknologi Industri di Greater Jakarta dari lembaga BAN-PT dengan peringkat Baik Sekali."
+    },
+    {
+        "text_input": "Apa saja akreditasi internasional yang dimiliki BINUS?",
+        "output": "Akreditasi internasional yang dimiliki BINUS meliputi: AACSB, ABET, ASIIN, AUNQA, Euro-Inf. Master, HEEACT, ABEE"
+    },
+    {
+        "text_input": "Akreditasi internasional program studi di BINUS",
+        "output": "3 prodi mendapatkan akreditasi AACSB, 3 prodi mendapatkan akreditasi ABET, 5 prodi mendapatkan akreditasi ASIIN, 3 prodi mendapatkan akreditasi AUNQA, 3 prodi mendapatkan akreditasi Euro-Inf. Bachelor, 1 prodi mendapatkan akreditasi Euro-Inf. Master, 15 prodi mendapatkan akreditasi HEEACT, 3 prodi mendapatkan akreditasi IABEE, dan 1 prodi mendapatkan akreditasi TedQual."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh AACSB di Greater Jakarta?",
+        "output": "Program studi yang terakreditasi oleh AACSB di Greater Jakarta meliputi: Doktor Ilmu Manajemen, Magister Manajemen, Sarjana Manajemen."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh ABET di Greater Jakarta?",
+        "output": "Program studi yang terakreditasi oleh ABET di Greater Jakarta meliputi: Sarjana Teknik Industri, Sarjana Teknik Sipil, Sarjana Sistem Komputer."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh ASIIN?",
+        "output": "Program studi yang terakreditasi oleh ASIIN meliputi: Sarjana Teknik Informatika di Bandung, Doktor Ilmu Komputer di Greater Jakarta, Sarjana Teknik Informatika di Malang, Magister Teknik Informatika di Greater Jakarta, Sarjana Teknik Informatika di Greater Jakarta."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh AUNQA di Greater Jakarta?",
+        "output": "Program studi yang terakreditasi oleh AUNQA di Greater Jakarta meliputi: Sarjana Desain Komunikasi Visual, Sarjana Teknik Informatika, Sarjana Sistem Informasi."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh Euro-Inf. Bachelor?",
+        "output": "Program studi yang terakreditasi oleh Euro-Inf. Bachelor meliputi: Sarjana Teknik Informatika di Greater Jakarta, Sarjana Teknik Informatika di Malang, Sarjana Teknik Informatika di Bandung."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh Euro-Inf. Master di Greater Jakarta?",
+        "output": "Program studi yang terakreditasi oleh Euro-Inf. Master di Greater Jakarta meliputi: Magister Teknik Informatika."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh HEEACT?",
+        "output": "Program studi yang terakreditasi oleh HEEACT meliputi: Diploma Perhotelan di Greater Jakarta, Sarjana Desain Komunikasi Visual di Semarang, Sarjana Desain Komunikasi Visual di Malang, Sarjana Desain Komunikasi Visual di Bandung, Magister Akuntansi di Greater Jakarta, Sarjana Desain Interior di Greater Jakarta, Sarjana Psikologi di Greater Jakarta, Sarjana Ilmu Hukum di Greater Jakarta, Sarjana Hubungan Internasional di Greater Jakarta, Sarjana Desain Komunikasi Visual di Greater Jakarta, Sarjana Desain Produk di Greater Jakarta, Sarjana Film di Greater Jakarta, Sarjana Teknologi Pangan di Greater Jakarta, Sarjana Akuntansi di Greater Jakarta, Sarjana Sastra Jepang di Greater Jakarta."
+    },
+    {
+        "text_input": "Apa saja program studi yang terakreditasi oleh IABEE di Greater Jakarta?",
+        "output": "Program studi yang terakreditasi oleh IABEE di Greater Jakarta meliputi: Sarjana Sistem Komputer, Sarjana Teknik Industri, Sarjana Teknik Sipil."
     }
 ]
