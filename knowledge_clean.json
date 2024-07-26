@@ -397,7 +397,7 @@
     },
     {
         "text_input_clean":"menghubungi LSC?",
-        "output_clean":"Kontak LSC link <a href=\"https://linktr.ee/contactlsc\" target=\"_blank\">https://linktr.ee/contactlsc</a>."
+        "output_clean":"Kontak LSC link https://linktr.ee/contactlsc."
     },
     {
         "text_input_clean":"Contoh mahasiswa LSC?",
@@ -441,11 +441,11 @@
     },
     {
         "text_input_clean":"mengakses Beelingua?",
-        "output_clean":"Silakan login melalui: <a href=\"https://newbinusmaya.binus.ac.id/beelingua\" target=\"_blank\">https://newbinusmaya.binus.ac.id/beelingua</a>."
+        "output_clean":"Silakan login melalui: https://newbinusmaya.binus.ac.id/beelingua."
     },
     {
         "text_input_clean":"kendala Beelingua?",
-        "output_clean":"kendala, kunjungi Kampus Anggrek Lantai 7, ruangan 730 (Jam operasional 9:30-17:00) akses Beelingua Corner online <a href=\"http://bit.ly/BeelinguaCorner\" target=\"_blank\">bit.ly/BeelinguaCorner</a>."
+        "output_clean":"kendala, kunjungi Kampus Anggrek Lantai 7, ruangan 730 (Jam operasional 9:30-17:00) akses Beelingua Corner online bit.ly/BeelinguaCorner."
     },
     {
         "text_input_clean":"Student Advisory and Support Center (SASC)?",
@@ -477,7 +477,7 @@
     },
     {
         "text_input_clean":"menghubungi SASC?",
-        "output_clean":"Kontak SASC 021-5345830 kunjungi Kampus Anggrek Lantai 5, ruangan 511 515. Jam operasional: Senin-Kamis 09:00 \u2013 17:00, Jumat 09:00 \u2013 17:00, Sabtu 09:00 \u2013 15:00. menghubungi SASC media sosial<a href=\"https://linktr.ee/studentadvisorybinus\" target=\"_blank\">https://linktr.ee/studentadvisorybinus</a>."
+        "output_clean":"Kontak SASC 021-5345830 kunjungi Kampus Anggrek Lantai 5, ruangan 511 515. Jam operasional: Senin-Kamis 09:00 \u2013 17:00, Jumat 09:00 \u2013 17:00, Sabtu 09:00 \u2013 15:00. menghubungi SASC media sosial https://linktr.ee/studentadvisorybinus."
     },
     {
         "text_input_clean":"Gambaran jadwal perkuliahan",
