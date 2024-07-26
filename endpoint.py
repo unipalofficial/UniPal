@@ -6,6 +6,7 @@ import re
 from API.generative_ai import GenAI
 from API.speech_to_text import SpeechToText
 from API.text_to_speech import TextToSpeech
+from API.el_text_to_speech import ELTextToSpeech
 app = FastAPI()
 
 class userMessage(BaseModel):
@@ -15,6 +16,7 @@ genai = GenAI()
 genai.initialize()
 stt = SpeechToText()
 tts = TextToSpeech()
+el_tts = ELTextToSpeech()
 
 app.add_middleware(
     CORSMiddleware,
@@ -33,3 +35,7 @@ async def generate(user_Request: Request):
     generated_text = genai.send_message(data)
     response = re.sub(r'\*', '', generated_text).strip()
     return {"generated_text": response}
+
+@app.post('/synthesize')
+def synthesize(message):
+    return el_tts.generate(message)
